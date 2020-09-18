@@ -8,8 +8,14 @@
     "npm": ">=5"
   },
   "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "@apollo/react-ssr": "^4.0.0",
     "@material-ui/core": "latest",
+    "apollo-boost": "^0.4.9",
+    "apollo-cache-inmemory": "^1.6.6",
+    "apollo-server-micro": "^2.17.0",
     "clsx": "latest",
+    "isomorphic-unfetch": "^3.0.0",
     "next": "latest",
     "node-fetch": "^2.6.1",
     "prop-types": "latest",
