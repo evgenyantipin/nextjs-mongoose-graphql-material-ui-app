@@ -1,0 +1,8 @@
+node_modules
+yarn-error.log
+.next
+src/.DS_Store
+.DS_Store
+**/.DS_Store
+.env
+.vercel
